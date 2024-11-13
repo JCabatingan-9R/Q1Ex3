@@ -1,0 +1,35 @@
+body {
+	font-family: Roboto Condensed;
+	background-color: rgba(211,241,255,1);
+	text-align: center;
+	padding-top: 10px;
+	color: black;
+}
+
+table {
+	border: 7px double;
+}
+
+img {
+	width:115px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.footer {
+	color: rgba(50,50,50,1);
+	background-color: white;
+	font-family: "Playright CU", cursive;
+	padding: 30px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+
+.footer:hover {
+	background-color: rgb(175,175,175);
+	color: white;
+}
